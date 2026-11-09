@@ -30,7 +30,7 @@ modules:
     sources:
       - type: git 
         url: https://codeberg.org/n-malo/luppolo.git
-        tag: "v0.1.5"
-        commit: "d83b9930befcb8d1eb4cab07e16a2defb805dc7c"
+        tag: "v0.1.6"
+        commit: "93b424686570b898af5d8fb07f13d823dd473858"
       - cargo-sources.json
 
